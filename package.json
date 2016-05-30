@@ -1,0 +1,25 @@
+{
+  "name": "gamesparks-node",
+  "version": "1.0.0",
+  "description": "Communication with GameSparks Platform",
+  "main": "GameSparks.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peebles/gamesparks-node.git"
+  },
+  "keywords": [
+    "gamesparks"
+  ],
+  "author": "Andrew Peebles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peebles/gamesparks-node/issues"
+  },
+  "homepage": "https://github.com/peebles/gamesparks-node#readme"
+}
